@@ -13,3 +13,4 @@
 <br />
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=SpongerXD&theme=dark&show_icons=true)
+![ghmostused](https://github-readme-stats.vercel.app/api/top-langs/?username=SpongerXD&layout=compact&hide=html)
