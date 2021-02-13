@@ -12,8 +12,8 @@
 <br />
 <br />
 
-![ghstats](https://github-readme-stats.vercel.app/api?username=SpongerXD&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpongerXD&theme=dark&show_icons=true)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpongerXD)
 <br />
-[!Sponger wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpongerXD)
+[!Sponger wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=SpongerXD)
