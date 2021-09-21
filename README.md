@@ -12,12 +12,6 @@
 <br />
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpongerXD&theme=dark&show_icons=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpongerXD)
-<br />
-![Sponger wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Sponger)
-
 
 <p align="center">
 	<tr>
@@ -32,3 +26,4 @@
 	</tr>
 </p>
 
+![Sponger wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Sponger)
