@@ -7,12 +7,12 @@
 <p align="left">
 	<tr>
 		<td align="left" style="padding=0;width=50%;">
-			<img src="https://github-readme-stats.vercel.app/api/?username=SpongerXD&title_color=c098ff&text_color=a5e8ff&show_icons=true&bg_color=000001&hide_border=true&icon_color=c098ff&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+			<img src="https://github-readme-stats.vercel.app/api/?username=SpongerXD&title_color=c098ff&text_color=a5e8ff&show_icons=true&bg_color=000000&hide_border=true&icon_color=c098ff&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
 		</td>
 	</tr>
 	<tr>
 		<td align="right" style="padding=0;width=50%;">
-			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sponger&title_color=c098ff&text_color=a5e8ff&show_icons=true&bg_color=000001&hide_border=true&icon_color=c098ff" />
+			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sponger&title_color=c098ff&text_color=a5e8ff&show_icons=true&bg_color=000000&hide_border=true&icon_color=c098ff" />
 		</td>
 	</tr>
 </p>
