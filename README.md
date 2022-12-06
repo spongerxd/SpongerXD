@@ -1,6 +1,3 @@
-<!---
-это репозиторий `README.md` который отвечает за главную страницу моего профиля
--->
 # что я делаю:
 
 - 🔭 работаю над: Kaoru и его переносом на Discord.JS v13
@@ -16,6 +13,11 @@
 	<tr>
 		<td align="right" style="padding=0;width=50%;">
 			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sponger" />
+		</td>
+	</tr>
+	<tr>
+		<td align="left" style="padding=0;width=50%;">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpongerXD&layout=compact&theme=vision-friendly-dark" />
 		</td>
 	</tr>
 </p>
