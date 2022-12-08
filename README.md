@@ -1,6 +1,5 @@
 # что я делаю:
 
-- 🔭 работаю над: Каору и его переносом на Discord.JS v13
 - ⛏️ датамайнинг в fortnite: [FNResources](https://github.com/spongerxd/FNResources) и [Solitude](https://github.com/spongerxd/Solitude)
 
 # статистика на GitHub:
