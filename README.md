@@ -1,5 +1,6 @@
 # что я делаю:
 
+- 🎈 работал над ботом в discord на javascript
 - ⛏️ датамайнинг в fortnite: [FNResources](https://github.com/spongerxd/FNResources) и [Solitude](https://github.com/spongerxd/Solitude)
 
 # статистика на GitHub:
