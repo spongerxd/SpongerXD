@@ -1,7 +1,7 @@
 # что я делаю:
 
 - 🎈 работаю над ботом в discord на javascript
-- ⛏️ датамайнинг в fortnite: [FNResources](https://github.com/spongerxd/FNResources)
+- ⛏️ датамайнинг в fortnite: [FNTracker](https://github.com/spongerxd/FNTracker)
 
 # статистика на GitHub:
 <p align="left">
