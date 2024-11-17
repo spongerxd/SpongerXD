@@ -1,9 +1,9 @@
-# что я делаю:
-
-- 🎈 работаю над ботом в discord на javascript
+# чем я занимаюсь:
 - ⛏️ датамайнинг в fortnite: [FNTracker](https://github.com/spongerxd/FNTracker)
+- 💕 что-то в after effects/premiere pro
+- 🤷‍♂️ пытаюсь намудрить в c#
 
-# статистика на GitHub:
+# моя статистика на github:
 <p align="left">
 	<tr>
 		<td align="left" style="padding=0;width=50%;">
